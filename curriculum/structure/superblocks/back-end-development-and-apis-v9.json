@@ -70,16 +70,6 @@
           ]
         },
         {
-          "dashedName": "express-middleware",
-          "comingSoon": true,
-          "blocks": [
-            "workshop-express-middleware-by-building-a-submission-form",
-            "lab-data-sanitizer",
-            "review-express-middleware",
-            "quiz-express-middleware"
-          ]
-        },
-        {
           "dashedName": "error-handling-in-express",
           "comingSoon": true,
           "blocks": [
@@ -87,6 +77,16 @@
             "workshop-error-handling-in-express-by-building-a-bank-api",
             "review-error-handling-in-express",
             "quiz-error-handling-in-express"
+          ]
+        },
+        {
+          "dashedName": "express-middleware",
+          "comingSoon": true,
+          "blocks": [
+            "workshop-express-middleware-by-building-a-submission-form",
+            "lab-data-sanitizer",
+            "review-express-middleware",
+            "quiz-express-middleware"
           ]
         },
         {
